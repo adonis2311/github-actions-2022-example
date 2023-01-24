@@ -1,1 +1,0 @@
-# github-actions-2022-example
